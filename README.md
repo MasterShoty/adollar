@@ -1,7 +1,6 @@
-# I am player one
-One one one one one one
+# I am player two
+two two two two two
+# I am better than player one
+one bad one bad one bad
 
-# I am better than player two
-two bad two bad two bad
-
-# It is great to be player one
+# Just cause I am player two doesn't mean I'm lesser!
